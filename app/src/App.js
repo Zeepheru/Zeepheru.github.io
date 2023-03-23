@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <TestImage />
         <p>
           bleh
         </p>
@@ -20,6 +20,14 @@ function App() {
       </header>
     </div>
   );
+}
+
+function TestImage() {
+  return (
+    <div>
+      <img src="https://derpicdn.net/img/view/2023/2/14/3046052.png" alt="test"/>
+    </div>
+  )
 }
 
 export default App;
