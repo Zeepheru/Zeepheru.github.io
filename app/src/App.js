@@ -3,8 +3,9 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" >
       <header className="App-header">
+        <h1>TEXT</h1>
         <TestImage />
         <p>
           bleh
@@ -15,9 +16,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
         </a>
       </header>
+      <div>
+
+      </div>
     </div>
   );
 }
@@ -25,7 +28,9 @@ function App() {
 function TestImage() {
   return (
     <div>
-      <img src="https://derpicdn.net/img/view/2023/2/14/3046052.png" alt="test"/>
+      <div>
+        <img src="/misc/SMPTE_Color_Bars.svg.png" alt="test"/>
+      </div>
     </div>
   )
 }
