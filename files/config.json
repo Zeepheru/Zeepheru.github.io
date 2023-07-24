@@ -1,6 +1,6 @@
 {
     "mask_cfg":{
-        "mask":true,
+        "mask":false,
         "mask_name":"mask_f"
     },
     "time_cfg":{
