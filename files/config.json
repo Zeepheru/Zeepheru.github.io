@@ -4,8 +4,8 @@
         "mask_name":"mask_f"
     },
     "time_cfg":{
-        "stop_time":1690255621,
-        "epoch_time_ref":"Tuesday, 25 July 2023 11:27:01 GMT+08:00",
+        "stop_time":1690259221,
+        "epoch_time_ref":"Tuesday, 25 July 2023 12:27:01 GMT+08:00",
         "stop_delay_variance":4600
     },
     "time_cfg2":{
