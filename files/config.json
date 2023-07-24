@@ -1,10 +1,10 @@
 {
     "mask_cfg":{
         "mask":true,
-        "mask_name":"template_f"
+        "mask_name":"mask_s"
     },
     "time_cfg":{
         "stop_time":0,
-        "stop_delay_variance":3600
+        "stop_delay_variance":1800
     }
 }
