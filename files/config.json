@@ -1,7 +1,7 @@
 {
     "mask_cfg":{
-        "mask":false,
-        "mask_name":"mask_f"
+        "mask":true,
+        "mask_name":"mask_discord"
     },
     "time_cfg":{
         "stop_time":1690255621,
