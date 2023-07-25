@@ -6,20 +6,20 @@
     "template_cfg":{
         "template":"mlp_custom"
     },
-    "time_cfg2":{
+    "time_cfg":{
         "stop_time":1690334843,
         "epoch_time_ref":"Wednesday, 26 July 2023 09:27:23 GMT+08:00",
         "stop_delay_variance":7200
     },
-    "time_cfg1":{
+    "time_cfg2":{
         "stop_time":1690346412,
         "epoch_time_ref":"Wednesday, 26 July 2023 12:40:12 GMT+08:00",
         "stop_delay_variance":6200
     },
-    "time_cfg":{
+    "time_cfg3":{
         "stop_time":1690314012,
         "epoch_time_ref":"Wednesday, 26 July 2023 03:40:12 GMT+08:00",
         "stop_delay_variance":1200
     },
-    "note_var":"I love you 2.6"
+    "note_var":"I love you 2.7"
 }
