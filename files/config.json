@@ -1,7 +1,7 @@
 {
     "mask_cfg":{
         "mask":true,
-        "mask_name":"mask_ff"
+        "mask_name":"mask_f"
     },
     "template_cfg":{
         "template":"mlp_custom"
@@ -20,5 +20,6 @@
         "stop_time":1690271686,
         "epoch_time_ref":"Tuesday, 25 July 2023 15:54:46 GMT+08:00",
         "stop_delay_variance":1200
-    }
+    },
+    "note_var":"I love you"
 }
