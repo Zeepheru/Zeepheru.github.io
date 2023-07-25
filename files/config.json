@@ -3,6 +3,9 @@
         "mask":true,
         "mask_name":"mask_ff"
     },
+    "template_cfg":{
+        "template":"mlp_custom"
+    },
     "time_cfg2":{
         "stop_time":1690296886,
         "epoch_time_ref":"Tuesday, 25 July 2023 22:54:46 GMT+08:00",
