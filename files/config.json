@@ -1,25 +1,25 @@
 {
     "mask_cfg":{
         "mask":true,
-        "mask_name":"mask_ff"
+        "mask_name":"mask_blu"
     },
     "template_cfg":{
         "template":"mlp_custom"
     },
     "time_cfg2":{
-        "stop_time":1690296886,
-        "epoch_time_ref":"Tuesday, 25 July 2023 22:54:46 GMT+08:00",
-        "stop_delay_variance":4600
+        "stop_time":1690334843,
+        "epoch_time_ref":"Wednesday, 26 July 2023 09:27:23 GMT+08:00",
+        "stop_delay_variance":7200
+    },
+    "time_cfg1":{
+        "stop_time":1690346412,
+        "epoch_time_ref":"Wednesday, 26 July 2023 12:40:12 GMT+08:00",
+        "stop_delay_variance":6200
     },
     "time_cfg":{
-        "stop_time":1690289686,
-        "epoch_time_ref":"Tuesday, 25 July 2023 20:54:46 GMT+08:00",
-        "stop_delay_variance":3600
-    },
-    "time_cfg3":{
-        "stop_time":1690271686,
-        "epoch_time_ref":"Tuesday, 25 July 2023 15:54:46 GMT+08:00",
+        "stop_time":1690314012,
+        "epoch_time_ref":"Wednesday, 26 July 2023 03:40:12 GMT+08:00",
         "stop_delay_variance":1200
     },
-    "note_var":"I love you2.2"
+    "note_var":"I love you 2.3"
 }
