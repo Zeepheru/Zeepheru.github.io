@@ -1,7 +1,7 @@
 {
     "mask_cfg":{
         "mask":true,
-        "mask_name":"mask_f"
+        "mask_name":"mask_ff"
     },
     "time_cfg2":{
         "stop_time":1690296886,
