@@ -4,7 +4,7 @@
         "mask_name":"mask_blu"
     },
     "template_cfg":{
-        "template":"mlp"
+        "template":"mlp_custom"
     },
     "time_cfg2":{
         "stop_time":1690334843,
@@ -21,5 +21,5 @@
         "epoch_time_ref":"Wednesday, 26 July 2023 03:40:12 GMT+08:00",
         "stop_delay_variance":1200
     },
-    "note_var":"I love you 2.4"
+    "note_var":"I love you 2.5"
 }
