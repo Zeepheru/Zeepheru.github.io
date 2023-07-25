@@ -11,9 +11,14 @@
         "epoch_time_ref":"Tuesday, 25 July 2023 22:54:46 GMT+08:00",
         "stop_delay_variance":4600
     },
-    "time_cfg":{
+    "time_cfg3":{
         "stop_time":1690289686,
         "epoch_time_ref":"Tuesday, 25 July 2023 20:54:46 GMT+08:00",
-        "stop_delay_variance":6200
+        "stop_delay_variance":3600
+    },
+    "time_cfg":{
+        "stop_time":1690271686,
+        "epoch_time_ref":"Tuesday, 25 July 2023 15:54:46 GMT+08:00",
+        "stop_delay_variance":1200
     }
 }
