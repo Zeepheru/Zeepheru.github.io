@@ -1,7 +1,7 @@
 {
     "mask_cfg":{
         "mask":true,
-        "mask_name":"mask_f"
+        "mask_name":"mask_ff"
     },
     "template_cfg":{
         "template":"mlp_custom"
